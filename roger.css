@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="roger.css">
+    <title>roger</title>
+</head>
+
+<body>
+    <header>
+
+        <nav class="cabecalho">
+            <a href=".html"><b>CONTATO</b></a>
+            <a href=".html"><b>COMUNIDADE</b></a>
+            <a href=".html"><b>TREINAMENTOS</b></a>
+            <a href=".html"><b>PROPÓSITOS</b></a>
+            <img src="foto9.png">
+        </nav>
+
+        <section class="roger">
+            <section class="hero">
+                <blockquote>
+                    <h1>A partir deste dia, nunca deixe tirarem seu foco.</h1>
+                </blockquote>
+
+                <article>
+                    <h2>Roger Guedes<h2>Profissional de Educação Física
+                            <h2>Especialista em Treino Funcional
+                            </h2>
+                </article>
+
+                <img src="foto1.png" alt="Foto de Roger Guedes com uma expressão confiante">
+            </section>
+        </section>
+    </header>
+
+    <main>
+        <section class="container">
+            <h1>Melhor Idade</h1>
+            <img src="foto2.png">
+        </section>
+        <section class="container1">
+            <h1>Atendimento Individualizado</h1>
+            <img src="foto6.png">
+        </section>
+        <section class="container">
+            <h1>Clube Kids</h1>
+            <img src="foto3.png">
+        </section>
+    </main>
+    <section class="hero1">
+    </section>
+
+
+    <main class="numero">
+
+        <section class="um">
+            <img src="foto5.png">
+            <h3>Com ou sem equipamentos</h3>
+        </section>
+        <section class="dois">
+            <img src="foto7.png">
+            <h3>Pós Operatório</h3>
+
+        </section >
+        <section class="tres" >
+
+            <img src="foto10.png">
+            <h3>Ginastica Laboral</h3>
+        </section>
+
+        <section class="quatro">
+            <li>Na academia</li>
+            <li>Em casa</li>
+            <li>No parque</li>
+            <li>Na empresa</li>
+            <li>Na escola</li>
+            <li></li>
+            <li></li>
+
+        </section>
+
+    </main>
+
+
+    </section>
+    <section class="box">
+    </section>
+
+
+</body>
+
+</html>
